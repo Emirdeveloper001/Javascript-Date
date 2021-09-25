@@ -3,3 +3,4 @@
     const f = new Date(2021, 11);
     const g = new Date(2021);
     const h = new Date(75, 11, 27);
+    const i = new Date();
